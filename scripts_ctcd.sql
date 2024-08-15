@@ -1,4 +1,4 @@
-CREATE SCHEMA pis;
+CREATE SCHEMA schema_kurs;
 
 -- tables
 -- Table: customers
